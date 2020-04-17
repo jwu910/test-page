@@ -6,6 +6,7 @@
 
 ## Design
 
+* [Take a Look](design/take-a-look.md)
 * [Untitled](design/untitled.md)
 * [Article](design/article.md)
 * [Untitled](untitled.md)
