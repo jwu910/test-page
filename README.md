@@ -1,6 +1,6 @@
 # Initial page
 
-## Sarah's page
+## Heading
 
 Becoming a super hero is a fairly straight forward process:
 
