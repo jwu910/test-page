@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Hello word](hello-word.md)
 * [First Page](first-page/README.md)
   * [First child](first-page/first-child.md)
 
